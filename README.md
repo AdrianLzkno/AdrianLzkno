@@ -1,33 +1,38 @@
 # Adrián Lezcano
 
-**Procesos, automatización e integración de sistemas · Asunción, Paraguay**
+**Procesos y mejora continua · Soluciones construidas con IA · Asunción, Paraguay**
 
-Convierto tareas operativas repetitivas en herramientas que los equipos pueden usar en su trabajo diario. Mi experiencia combina operaciones logísticas, comercio electrónico y desarrollo de aplicaciones internas.
+Trabajo en operaciones logísticas y comercio electrónico. Identifico tareas repetitivas, defino requisitos y reglas de negocio, y dirijo la creación de herramientas con ayuda de inteligencia artificial. Pruebo los flujos y los ajusto según su uso en la operación.
 
-## Experiencia aplicada
+## Tres proyectos conectados
 
-- **Agendamiento de entregas:** desarrollé una aplicación utilizada por 3 agentes para gestionar 10–25 deliveries diarios. El agendamiento pasó de al menos 5 minutos a menos de 1 minuto al consultar automáticamente clientes, remisiones y montos.
-- **Integración de sistemas:** construí una integración REST mediante scraping para conectar un sistema logístico con herramientas internas de atención, caja y operaciones.
-- **Mensajería y pesaje:** automaticé avisos de llegada dentro de una operación de aproximadamente 400 mensajes diarios e implementé un flujo con lectores de código y balanzas conectadas a PC.
-- **Conciliación de datos:** crucé información operativa y facturas de más de 50 guías para explicar diferencias de kilos.
-- **Comercio electrónico:** experiencia en localización de tiendas para distintos mercados y gestión de un negocio de importación.
+| Proyecto | Problema que aborda | Alcance |
+| --- | --- | --- |
+| **inflightbox-delivery** | Información dispersa entre atención, reparto y administración | Plataforma de agendamiento, recepción, rutas, caja y conciliación |
+| **cwl-api** | Búsquedas y transcripciones repetidas desde el sistema logístico | Puente para consultar y operar clientes, paquetes, guías y remisiones de CWL |
+| **adapta-api** | Coordinación entre operaciones y sistema administrativo | Consultas y flujos de caja y facturación en Adapta, con controles de habilitación |
 
-Los proyectos empresariales se mantienen privados. Esta presentación describe mi participación y los resultados de mi experiencia laboral; no publica código ni datos de clientes.
+Mi aporte está en entender la operación, definir necesidades, dirigir iteraciones y validar resultados. **La implementación del código fue asistida por IA.** Mi perfil es de procesos e implementación funcional; no de programación independiente.
+
+React, TypeScript, Node.js, Supabase e integraciones HTTP son tecnologías utilizadas en estos proyectos. Su presencia no representa dominio de programación manual.
+
+## Resultados de mi experiencia
+
+- Agendamiento utilizado por 3 agentes para 10–25 entregas diarias: de al menos 5 minutos a menos de 1 minuto por registro.
+- Trabajo en avisos por WhatsApp y flujos de pesaje con lectores y balanzas.
+- Conciliación de datos operativos y facturas de más de 50 guías para explicar diferencias de kilos.
+- Gestión de compras, logística, inventario, costos, precios y ventas en mi emprendimiento Iron Imports.
+
+Estas cifras describen resultados observados en mi experiencia laboral. Los sistemas empresariales y sus datos se mantienen privados; esta presentación no publica código ni información de clientes.
 
 ## Cómo puedo ayudar
 
-- Limpieza y conciliación de planillas; reportes de diferencias y pendientes.
-- Automatización de tareas administrativas y conexión entre sistemas mediante APIs.
-- Aplicaciones internas y formularios para pedidos, entregas y seguimiento.
-- Ajustes y localización de sitios de comercio electrónico.
+- Organizar y conciliar planillas de ventas, cobros o stock.
+- Preparar reportes de diferencias y pendientes.
+- Documentar procesos y definir requisitos para herramientas internas.
+- Implementar mejoras administrativas con IA, con alcance acotado y validación funcional.
 
-Trabajo por entregables acordados, con validación del resultado y documentación de uso. Disponible para proyectos freelance compatibles con mi jornada laboral.
-
-## Herramientas
-
-React · TypeScript · JavaScript · Node.js · APIs REST · Git · Excel · Shopify
-
-Uso herramientas de IA para acelerar el análisis y la implementación, validando los flujos con usuarios y datos reales.
+Antes de comprometer una integración, reviso su viabilidad y una muestra del resultado. Trabajo por entregables acordados y con documentación de uso. Disponible para proyectos compatibles con mi jornada laboral, después de las 17:30 de Paraguay.
 
 ## Formación e idiomas
 
