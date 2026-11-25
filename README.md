@@ -1,45 +1,63 @@
 # Adrián Lezcano
 
-**Procesos y mejora continua · Soluciones construidas con IA · Asunción, Paraguay**
+**Automatización de procesos y herramientas con IA** · Asunción, Paraguay
 
-Trabajo en operaciones logísticas y comercio electrónico. Identifico tareas repetitivas, defino requisitos y reglas de negocio, y dirijo la creación de herramientas con ayuda de inteligencia artificial. Pruebo los flujos y los ajusto según su uso en la operación.
+Process & AI automation — websites, internal tools and mobile apps, from requirement to production.
 
-## Tres proyectos conectados
+Relevo cómo se trabaja hoy, defino reglas claras y construyo landings, aplicaciones web full stack, paneles internos y apps móviles (React Native / Expo) con desarrollo asistido por IA (Claude Code), desde el requisito hasta la puesta en marcha.
 
-| Proyecto | Problema que aborda | Alcance |
-| --- | --- | --- |
-| **inflightbox-delivery** | Información dispersa entre atención, reparto y administración | Plataforma de agendamiento, recepción, rutas, caja y conciliación |
-| **cwl-api** | Búsquedas y transcripciones repetidas desde el sistema logístico | Puente para consultar y operar clientes, paquetes, guías y remisiones de CWL |
-| **adapta-api** | Coordinación entre operaciones y sistema administrativo | Consultas y flujos de caja y facturación en Adapta, con controles de habilitación |
+## Trabajo destacado
 
-Mi aporte está en entender la operación, definir necesidades, dirigir iteraciones y validar resultados. **La implementación del código fue asistida por IA.** Mi perfil es de procesos e implementación funcional; no de programación independiente.
+### Inflight Box — plataforma interna de un courier
+*Noviembre 2025 – presente · caso de estudio (código privado de la empresa)*
 
-React, TypeScript, Node.js, Supabase e integraciones HTTP son tecnologías utilizadas en estos proyectos. Su presencia no representa dominio de programación manual.
+Puse en marcha una plataforma que cubre atención, agendamiento, recepción, reparto, caja y conciliación, y la conecté con el sistema logístico de la empresa y con el sistema administrativo para caja y facturación electrónica SIFEN. La usan 9 usuarios.
 
-## Resultados de mi experiencia
+- Agendamiento usado por 3 agentes para 10–25 entregas diarias: de 5 minutos o más por registro a menos de 1 minuto
+- 881 entregas gestionadas entre julio y septiembre de 2026
+- Más de 6.000 mensajes de WhatsApp
+- Alrededor de 4.000 commits
 
-- Agendamiento utilizado por 3 agentes para 10–25 entregas diarias: de al menos 5 minutos a menos de 1 minuto por registro.
-- Trabajo en avisos por WhatsApp y flujos de pesaje con lectores y balanzas.
-- Conciliación de datos operativos y facturas de más de 50 guías para explicar diferencias de kilos.
-- Gestión de compras, logística, inventario, costos, precios y ventas en mi emprendimiento Iron Imports.
+### DRPT Marketing Agency
+*2025*
 
-Estas cifras describen resultados observados en mi experiencia laboral. Los sistemas empresariales y sus datos se mantienen privados; esta presentación no publica código ni información de clientes.
+Adapté y localicé tiendas Shopify para distintos países.
 
-## Cómo puedo ayudar
+## Servicios
 
-- Organizar y conciliar planillas de ventas, cobros o stock.
-- Preparar reportes de diferencias y pendientes.
-- Documentar procesos y definir requisitos para herramientas internas.
-- Implementar mejoras administrativas con IA, con alcance acotado y validación funcional.
+Proyectos freelance después de las 17:30 (hora de Asunción):
 
-Antes de comprometer una integración, reviso su viabilidad y una muestra del resultado. Trabajo por entregables acordados y con documentación de uso. Disponible para proyectos compatibles con mi jornada laboral, después de las 17:30 de Paraguay.
+- Landings y sitios web
+- Aplicaciones web full stack y paneles internos
+- Apps móviles (iOS y Android)
+- Automatización por WhatsApp y planillas
+- Integraciones de facturación electrónica SIFEN
 
-## Formación e idiomas
+## Stack
 
-Licenciatura en Inteligencia Artificial y Robótica en curso, Universidad Americana (finalización prevista: 2029).
+React · TypeScript · Next.js · Node.js · Supabase · Tailwind · Vercel · Expo / React Native · Google Sheets / Apps Script · WhatsApp
 
-Español nativo · Inglés intermedio · Guaraní básico.
+## Formación
+
+Licenciatura en Inteligencia Artificial y Robótica, Universidad Americana (en curso)  
+Inglés C2 (EF SET 83/100) · Lean Six Sigma White Belt · Español nativo
 
 ## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/lzknoadrian/)
+
+---
+
+## English
+
+I improve back-office and operations work: I map how the job is done today, set clear rules, and ship internal tools with AI-assisted development (Claude Code), from the requirement through to production. I also build landings, full-stack web apps and mobile apps with React Native / Expo.
+
+At **Inflight Box**, a courier in Paraguay (November 2025–present), I shipped an internal platform for customer service, scheduling, intake, delivery, cash and reconciliation. It is used by 9 people. Scheduling, used by 3 agents for 10–25 daily deliveries, went from 5+ minutes per registration to under a minute. From July to September 2026 the team handled 881 deliveries and sent 6,000+ WhatsApp messages. I also connected daily work to the company's logistics system and to its administrative system for cash and SIFEN e-invoicing. Around 4,000 commits; the code is company-owned and not public.
+
+In 2025 at **DRPT Marketing Agency** I localized Shopify stores for several countries.
+
+Available for freelance projects after 17:30 (Asunción time): landings and websites, full-stack web apps and internal panels, mobile apps, WhatsApp and spreadsheet automation, and SIFEN e-invoicing integrations.
+
+English C2 (EF SET 83/100). Lean Six Sigma White Belt. Studying Artificial Intelligence and Robotics at Universidad Americana.
 
 [LinkedIn](https://www.linkedin.com/in/lzknoadrian/)
